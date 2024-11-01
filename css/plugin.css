@@ -1,0 +1,88 @@
+
+.inner_container {
+    background-color: #fff;
+    box-shadow: 2px 9px 15px #c9c9c9;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.outer {
+    float: left;
+    margin-top: 40px;
+    width: 100%;
+}
+ .post_inner{
+    display:none;
+}
+.dis_block{
+  display:block !important;
+}
+.organic-holder-outer {
+    background-color: #fff;
+    padding:0px 20px 20px;
+}
+.organic-tabs a {
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 13px 11px;
+    text-decoration: none;
+}
+.organic-tabs > ul li {
+    border: 1px solid;
+    display: inline-block;
+}
+
+.organic-tabs {
+    background-color: #d2d2d2;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.table_outer table {
+    border: 1px dotted;
+    margin: 0 auto;
+}
+.table_outer td ,.table_outer th{
+    border: 1px dotted;
+    padding: 12px 20px;
+    text-align: center;
+}
+.table_outer tr:nth-child(2n) {
+    background-color:#d2d2d2;
+}
+
+.organic-tabs .active-tab {
+    background-color:#fff;
+    color: #333333;
+}
+a,a:active,a:focus{
+text-decoration:none;
+border:0;
+outline:none;
+}
+
+.paypal img {
+    height: 50px;
+    width: 50px;
+}
+
+.paypal {
+    margin: 0 auto;
+    margin: 50px auto 0;
+    max-width: 1000px;
+    width: 100%;
+}
+.paypal > a {
+    float: left;
+}
+.desc_pay {
+    float: left;
+}
+
+.organic-holder-outer h3 {
+    text-align: center;
+}
